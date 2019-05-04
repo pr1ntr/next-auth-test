@@ -1,0 +1,44 @@
+# Tmp files to always-ignore extensions
+*.diff
+*.err
+*.rej
+*.swo
+*~
+*.sass-cache
+*.orig
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+/.redcar
+/.deploy
+/.keys
+/nbproject
+/.project
+/.idea
+/.eclipse
+/.vscode
+*.vi
+.next/
+.env
+.env.*
+!.env.example
+
+
+# logs files
+*.log
+
+docker/data/*
+docker/mongo/*
+node_modules
+database/*.sql
+.npmrc
