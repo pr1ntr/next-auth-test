@@ -17,7 +17,7 @@
     "cross-env": "^5.2.0",
     "dotenv": "^8.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "next": "^8.1.0",
     "passport": "0.2.2",
